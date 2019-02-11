@@ -1,4 +1,4 @@
-package com.example.gayat.swoosh
+package com.example.gayat.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
